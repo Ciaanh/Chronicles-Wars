@@ -9,9 +9,7 @@ local addon = LibStub("AceAddon-3.0"):NewAddon(private.addon_name, "AceEvent-3.0
 
 local Chronicles = LibStub("AceAddon-3.0"):GetAddon("Chronicles")
 
-addon.descName = L["Chronicles - Wars"]
-addon.description = L["Add Azeroth history Wars to Chronicles' timeline"]
-addon.pluginName = L["Wars"]
+addon.pluginName = "Wars"
 addon.Name = FOLDER_NAME
 
 local constants = Chronicles.constants
