@@ -1,9 +1,5 @@
 local AceLocale = LibStub:GetLibrary("AceLocale-3.0")
-local L = AceLocale:NewLocale("Chronicles - Wars", "frFR", false)
-
-if not L then
-    return
-end
+local L = AceLocale:NewLocale("Chronicles - Wars", "frFR")
 
 if L then
     L["First War label"] = "La première guerre"
