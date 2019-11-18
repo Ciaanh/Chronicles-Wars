@@ -32,7 +32,7 @@ DB = {
 	--]]
 	[1] = {
 		id = 1,
-		label = L["First War"],
+		label = L["First War label"],
 		description = {
 			L["First War page 1"]
 		},
@@ -43,7 +43,7 @@ DB = {
 	},
 	[2] = {
 		id = 2,
-		label = L["War of the ancient"],
+		label = L["War of the ancient label"],
 		description = {
 			L["War of the ancient page 1"],
 			L["War of the ancient page 2"]
