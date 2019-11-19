@@ -52,5 +52,18 @@ DB = {
 		yearStart = -10000,
 		yearEnd = -9990,
 		eventType = constants.eventType.war
+	},
+	[3] = {
+		id = 3,
+		label = L["War of the Three Hammers label"],
+		description = {
+			L["War of the Three Hammers page 1"],
+			L["War of the Three Hammers page 2"],
+			L["War of the Three Hammers page 3"]
+		},
+		icon = "research",
+		yearStart = -230,
+		yearEnd = -230,
+		eventType = constants.eventType.war
 	}
 }
