@@ -59,7 +59,8 @@ DB = {
 		description = {
 			L["War of the Three Hammers page 1"],
 			L["War of the Three Hammers page 2"],
-			L["War of the Three Hammers page 3"]
+			L["War of the Three Hammers page 3"],
+			L["War of the Three Hammers page 4"]
 		},
 		icon = "research",
 		yearStart = -230,
