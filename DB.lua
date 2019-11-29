@@ -24,7 +24,6 @@ DB = {
 			id=[integer],				-- Id of the event
 			label=[string], 			-- label: text that'll be the label
 			description=table[string], 	-- description: text that give informations about the event
-			icon=[string], 				-- the pre-define icon type which can be found in Constant.lua
 			yearStart=[integer],		-- 
 			yearEnd=[integer],			-- 
 			eventType=[string],			-- type of event defined in constants
@@ -36,7 +35,6 @@ DB = {
 		description = {
 			L["First War page 1"]
 		},
-		icon = "research",
 		yearStart = 0,
 		yearEnd = 5,
 		eventType = constants.eventType.war
@@ -48,7 +46,6 @@ DB = {
 			L["War of the ancient page 1"],
 			L["War of the ancient page 2"]
 		},
-		icon = "research",
 		yearStart = -10000,
 		yearEnd = -9990,
 		eventType = constants.eventType.war
@@ -61,7 +58,6 @@ DB = {
 			L["War of the Three Hammers page 2"],
 			L["War of the Three Hammers page 3"]
 		},
-		icon = "research",
 		yearStart = -230,
 		yearEnd = -230,
 		eventType = constants.eventType.war
