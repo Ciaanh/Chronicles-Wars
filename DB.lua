@@ -61,5 +61,16 @@ DB = {
 		yearStart = -230,
 		yearEnd = -230,
 		eventType = constants.eventType.war
-	}
+	},
+	[4] = {
+		id = 4,
+		label = L["War of the ancient label 4"],
+		description = {
+			L["War of the ancient page 1"],
+			L["War of the ancient page 2"]
+		},
+		yearStart = -10005,
+		yearEnd = -10005,
+		eventType = constants.eventType.war
+	},
 }
