@@ -6,6 +6,7 @@ if L then
     L["First War page 1"] = '<HTML><BODY><BR/><BR/><H1 align="center">First War</H1></BODY></HTML>'
     
     L["War of the ancient label"] = "The War of the ancient"
+    L["War of the ancient label 4"] = "The War of the ancient"
     L["War of the ancient page 1"] = '<HTML><BODY><BR/><BR/><H1 align="center">War of the ancient page 1</H1></BODY></HTML>'
     L["War of the ancient page 2"] = '<HTML><BODY><BR/><BR/><H1 align="center">War of the ancient page 2</H1></BODY></HTML>'    
     

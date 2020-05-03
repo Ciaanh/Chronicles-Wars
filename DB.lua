@@ -71,6 +71,6 @@ DB = {
 		},
 		yearStart = -10005,
 		yearEnd = -10005,
-		eventType = constants.eventType.war
+		eventType = constants.eventType.era
 	},
 }
